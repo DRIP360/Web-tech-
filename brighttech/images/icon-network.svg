@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Network icon">
+  <circle cx="32" cy="32" r="31" fill="#fff3d1"/>
+  <g fill="none" stroke="#0f2540" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 18v14M32 32L17 44M32 32l15 12"/>
+    <circle cx="32" cy="15" r="6" fill="#f5a800"/>
+    <circle cx="15" cy="46" r="6" fill="#fff"/>
+    <circle cx="49" cy="46" r="6" fill="#fff"/>
+    <circle cx="32" cy="32" r="3" fill="#0f2540"/>
+  </g>
+</svg>

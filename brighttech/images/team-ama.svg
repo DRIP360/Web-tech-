@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Portrait of Ama Serwaa">
+  <rect width="400" height="400" fill="#f0dcec"/>
+  <circle cx="200" cy="82" r="32" fill="#14110f"/>
+  <path d="M50 400 C50 318 130 288 200 288 C270 288 350 318 350 400 Z" fill="#7a2e63"/>
+  <rect x="173" y="238" width="54" height="62" rx="12" fill="#8a5632"/>
+  <ellipse cx="200" cy="178" rx="62" ry="72" fill="#8a5632"/>
+  <path d="M136 170 C132 96 268 96 264 170 C250 134 150 134 136 170 Z" fill="#14110f"/>
+  <circle cx="177" cy="182" r="5.5" fill="#1c2733"/>
+  <circle cx="223" cy="182" r="5.5" fill="#1c2733"/>
+  <path d="M178 218 Q200 236 222 218" fill="none" stroke="#1c2733" stroke-width="4" stroke-linecap="round"/>
+  <path d="M170 288 L200 318 L230 288" fill="#ffffff" opacity="0.9"/>
+</svg>

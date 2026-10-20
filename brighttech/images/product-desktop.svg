@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Desktop workstation with monitor and tower">
+  <rect width="400" height="300" fill="#eef2f7"/>
+  <rect x="50" y="60" width="200" height="130" rx="9" fill="#0f2540"/>
+  <rect x="59" y="69" width="182" height="112" rx="3" fill="#1b3a5f"/>
+  <g stroke-width="6" stroke-linecap="round"><line x1="75" y1="95" x2="150" y2="95" stroke="#f5a800"/><line x1="75" y1="118" x2="205" y2="118" stroke="#6f93bd"/><line x1="75" y1="141" x2="175" y2="141" stroke="#6f93bd"/></g>
+  <rect x="136" y="190" width="28" height="34" fill="#0f2540"/>
+  <rect x="106" y="222" width="88" height="12" rx="5" fill="#0f2540"/>
+  <rect x="282" y="56" width="74" height="180" rx="9" fill="#27496f"/>
+  <circle cx="319" cy="84" r="9" fill="#f5a800"/>
+  <g stroke="#0f2540" stroke-width="4" stroke-linecap="round"><line x1="298" y1="120" x2="340" y2="120"/><line x1="298" y1="136" x2="340" y2="136"/><line x1="298" y1="152" x2="340" y2="152"/><line x1="298" y1="168" x2="340" y2="168"/></g>
+</svg>

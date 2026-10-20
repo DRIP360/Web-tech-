@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Antivirus software box with a shield">
+  <rect width="400" height="300" fill="#eef2f7"/>
+  <rect x="120" y="36" width="160" height="228" rx="10" fill="#0f2540"/>
+  <rect x="120" y="36" width="160" height="16" rx="8" fill="#f5a800"/>
+  <path d="M200 84 L246 100 V148 C246 178 224 196 200 206 C176 196 154 178 154 148 V100 Z" fill="#f5a800"/>
+  <path d="M178 144 l16 16 l30 -32" fill="none" stroke="#0f2540" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <g stroke="#6f93bd" stroke-width="5" stroke-linecap="round"><line x1="146" y1="228" x2="254" y2="228"/><line x1="166" y1="244" x2="234" y2="244"/></g>
+</svg>
